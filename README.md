@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwash88&label=Profile%20views&color=0e75b6&style=flat" alt="diwash88" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/diwash88/typing-game](https://github.com/diwash88/typing-game)
-
 - 📫 How to reach me **diwashjaic66@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
