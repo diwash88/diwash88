@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diwash Rimal</h1>
-<h3 align="center">A passionate IT student from Nepal</h3>
+<h3 align="center">BCA student </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwash88&label=Profile%20views&color=0e75b6&style=flat" alt="diwash88" /> </p>
