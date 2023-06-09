@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @diwash88
 - 🌱 I’m currently learning ...
+- HTML 5
+- CSS
+- JavaScript
 
 
 <!---
